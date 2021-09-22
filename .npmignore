@@ -123,5 +123,5 @@ Temporary Items
 
 ## Other files
 renovate.json
-build/
+src/
 .editorconfig
