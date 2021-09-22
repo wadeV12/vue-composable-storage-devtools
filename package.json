@@ -1,5 +1,5 @@
 {
-  "name": "composable-storage-devtools-plugin",
+  "name": "vue-composable-storage-devtools",
   "version": "0.0.1",
   "description": "Vue devtools plugin",
   "main": "dist/my-plugin.cjs.js",
