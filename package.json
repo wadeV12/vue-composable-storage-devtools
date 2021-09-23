@@ -2,17 +2,17 @@
   "name": "vue-composable-storage-devtools",
   "version": "0.0.1",
   "description": "Vue devtools plugin",
-  "main": "dist/my-plugin.cjs.js",
-  "module": "dist/my-plugin.esm-bundler.js",
-  "unpkg": "dist/my-plugin.global.js",
-  "jsdelivr": "dist/my-plugin.global.js",
+  "main": "dist/vue-composable-storage-devtools.cjs.js",
+  "module": "dist/vue-composable-storage-devtools.esm-bundler.js",
+  "unpkg": "dist/vue-composable-storage-devtools.global.js",
+  "jsdelivr": "dist/vue-composable-storage-devtools.global.js",
   "types": "dist/index.d.ts",
   "exports": {
     ".": {
-      "require": "./dist/my-plugin.cjs.js",
-      "browser": "./dist/my-plugin.esm-browser.js",
-      "import": "./dist/my-plugin.esm-bundler.js",
-      "module": "./dist/my-plugin.esm-bundler.js"
+      "require": "./dist/vue-composable-storage-devtools.cjs.js",
+      "browser": "./dist/vue-composable-storage-devtools.esm-browser.js",
+      "import": "./dist/vue-composable-storage-devtools.esm-bundler.js",
+      "module": "./dist/vue-composable-storage-devtools.esm-bundler.js"
     },
     "./package.json": "./package.json"
   },
