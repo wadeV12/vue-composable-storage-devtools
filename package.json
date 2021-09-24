@@ -1,6 +1,6 @@
 {
   "name": "vue-composable-storage-devtools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue devtools plugin",
   "main": "dist/vue-composable-storage-devtools.cjs.js",
   "module": "dist/vue-composable-storage-devtools.esm-bundler.js",
